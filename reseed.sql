@@ -1,0 +1,1 @@
+﻿DBCC CHECKIDENT (Awards, RESEED, 0)
